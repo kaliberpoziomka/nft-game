@@ -1,3 +1,3 @@
-# Game 🎮 base on nft
+# Game 🎮 based on nft
 
 Choose you hero and fight your enemies!
